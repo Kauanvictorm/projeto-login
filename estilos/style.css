@@ -78,7 +78,7 @@ div.dados > span {
     padding: 5px;
 }
 div.dados > input {
-    background-color: #AEBAF8;
+    background-color: #c4cdf8;
     font-size: 1em;
     width: calc(100% - 45px); 
     height: 100%;
